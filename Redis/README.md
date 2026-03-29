@@ -30,7 +30,7 @@ Retrieve:
 * port
 * password
 
-And substitute them into redicClient.js file accordingly.
+And substitute them into redisClient.js file accordingly.
 
 ---
 
